@@ -2,19 +2,10 @@
 
 Pyramid Technologies Thermal Printer Command Set
 ================================================
+
 |logo|
 
+This documentation has moved_.
 
-- `Documentation has moved <https://escpos.readthedocs.io/>`_
-
-
-.. toctree::
-   :maxdepth: 4
-
-   self
-
-Indices and tables
-==================
-
-* :ref:`genindex`
+.. _moved: https://escpos.readthedocs.io/
 
